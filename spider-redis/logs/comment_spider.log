@@ -1,0 +1,8 @@
+2021-11-07 17:48:15,691 [comment_spider:68] INFO: Reading start URLs from redis key 'comment_spider:start_urls' (batch size: 1, encoding: utf-8
+2021-11-07 17:49:03,689 [comment_spider:68] INFO: Reading start URLs from redis key 'comment_spider:start_urls' (batch size: 1, encoding: utf-8
+2021-11-07 17:50:34,830 [comment_spider:68] INFO: Reading start URLs from redis key 'comment_spider:start_urls' (batch size: 1, encoding: utf-8
+2021-11-07 17:52:17,234 [comment_spider:68] INFO: Reading start URLs from redis key 'comment_spider:start_urls' (batch size: 1, encoding: utf-8
+2021-11-07 17:54:24,876 [comment_spider:68] INFO: Reading start URLs from redis key 'comment_spider:start_urls' (batch size: 1, encoding: utf-8
+2021-11-07 17:55:37,258 [comment_spider:68] INFO: Reading start URLs from redis key 'comment_spider:start_urls' (batch size: 1, encoding: utf-8
+2021-11-07 17:56:41,045 [comment_spider:68] INFO: Reading start URLs from redis key 'comment_spider:start_urls' (batch size: 1, encoding: utf-8
+2021-11-07 18:01:56,396 [comment_spider:68] INFO: Reading start URLs from redis key 'comment_spider:start_urls' (batch size: 1, encoding: utf-8
